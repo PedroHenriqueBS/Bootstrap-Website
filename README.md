@@ -6,14 +6,14 @@
 
 Você pode acessar ao resultado final do projeto [clicando aqui](https://pedrohenriquebs.github.io/LandingPage-Bootstrap/).
 
+## ✔ Preview:
+<img src="assets/images/Sem título.png">
+
 <h2>🚀 Tecnologias utilizadas</h2>
 
 ![HTML5](https://img.shields.io/badge/HTML5-FFF?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-FFF?style=for-the-badge&logo=css3&logoColor=264CE4)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-fff?style=for-the-badge&logo=bootstrap)
-
-## ✔ Preview:
-<img src="assets/images/Sem título.png">
 
 <h2>🔗 Links</h2>
 
